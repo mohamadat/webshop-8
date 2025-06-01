@@ -1,0 +1,21 @@
+[
+
+
+{
+    "user": {
+        "name": "Wael  ",
+        "email": "wael@gmail.com",
+        "adress": "  123 street New York"
+    },
+    "order_items": [
+        {
+            "product_id": 252,
+            "quantity": 2
+        }
+       
+    ]
+}
+
+
+
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "schoenen1",
+        "price": 10.99,
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFUfVU_aHP8voxIajI1Ub3RGva5hEGgEpdGxxFkZQ_i70iuxZlijgzXYavrguvRCNMMld2tDTZK29zBngfF8WV-bxhI6U-5CMKnmf7M4945J8GeKn8UlUG-s4"
+    },
+    {
+        "id": 2,
+        "name": "schoenen",
+        "price": 19.99,
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFUfVU_aHP8voxIajI1Ub3RGva5hEGgEpdGxxFkZQ_i70iuxZlijgzXYavrguvRCNMMld2tDTZK29zBngfF8WV-bxhI6U-5CMKnmf7M4945J8GeKn8UlUG-s4"
+    },
+    {
+        "id": 22,
+        "name": "plant",
+        "price": 12.0,
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFUfVU_aHP8voxIajI1Ub3RGva5hEGgEpdGxxFkZQ_i70iuxZlijgzXYavrguvRCNMMld2tDTZK29zBngfF8WV-bxhI6U-5CMKnmf7M4945J8GeKn8UlUG-s4"
+    },
+    {
+        "id": 5,
+        "name": "addidas",
+        "price": 45.0,
+        "image_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/51534b4fe6eb4eec82b563f5c0bc27fc_9366/Centennial_ADV_Schoenen_Grijs_JQ5355_02_standard_hover.jpg"
+    },
+    {
+        "id": 6,
+        "name": "heren snikers",
+        "price": 24.0,
+        "image_url": "https://img.ltwebstatic.com/images3_spmp/2025/02/10/ee/1739193190218314753bac8a2ca97ad3287b606e7b_thumbnail_560x.webp"
+    },
+    {
+        "id": 7,
+        "name": "adibas",
+        "price": 55.0,
+        "image_url": "https://img.ltwebstatic.com/images3_spmp/2025/02/10/ee/1739193190218314753bac8a2ca97ad3287b606e7b_thumbnail_560x.webp"
+    },
+    {
+        "id": 225,
+        "name": "Temu",
+        "price": 24.11,
+        "image_url": "https://img.kwcdn.com/product/fancy/2c5e5b28-0459-448c-ab07-c2d43c76574b.jpg?imageView2/2/w/800/q/70/format/webp"
+    },
+    {
+        "id": 224,
+        "name": "Temu",
+        "price": 24.11,
+        "image_url": "https://img.kwcdn.com/product/fancy/16ad3215-fbcd-415c-b1ea-c955739f839e.jpg?imageView2/2/w/800/q/70/format/webp"
+    },
+    {
+        "id": 9,
+        "name": "Men's Work Safety Shoe",
+        "price": 23.83,
+        "image_url": "https://img.kwcdn.com/product/fancy/99b62187-96be-43a3-87f4-23385fd4c129.jpg?imageView2/2/w/800/q/70/format/webp"
+    },
+    {
+        "id": 10,
+        "name": "heren snikers 2",
+        "price": 120.0,
+        "image_url": "https://img.kwcdn.com/product/fancy/99b62187-96be-43a3-87f4-23385fd4c129.jpg?imageView2/2/w/800/q/70/format/webp"
+    },
+    {
+        "id": 223,
+        "name": "mans Slim fit jeans",
+        "price": 44.0,
+        "image_url": "https://images.jackjones.com/12203510/3809600/003/jackjones-jjiglennjjoriginalsq030noos-blauw.jpg?v=b95b4500c1e071dd1d5001e86a97e579&format=webp&width=1280&quality=90&key=25-0-3&dpr=1.25"
+    },
+    {
+        "id": 252,
+        "name": "De spa Amber",
+        "price": 2450.0,
+        "image_url": "https://media.fonteynspas.com/catalog/product/cache/98c837194b241be712f567d474855f6e/m/s/mspas_amber_2.jpg"
+    }
+
+    
+
+]
